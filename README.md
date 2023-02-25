@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m passionate about AI, Machine Learning, Hardware and Software
 - 🌱 I’m currently doing Secondary Schooling
-- 💬 Ask me about languages such as HTML/CSS/JS, Python, C, C# and C++
+- 💬 Ask me about languages such as HTML/CSS/JS, Python, Java, C, C# and C++
 - 📫 How to reach me: siddharthahingane@gmail.com
