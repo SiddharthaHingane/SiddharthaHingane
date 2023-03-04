@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently doing Secondary Schooling
 - 💬 Ask me about languages such as HTML/CSS/JS, Python, Java, C, C# and C++
 - 📫 How to reach me: siddharthahingane@gmail.com
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/siddharthahingane/)
