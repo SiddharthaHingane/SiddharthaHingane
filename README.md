@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m passionate about AI, Machine Learning, Hardware and Software
 - 🌱 I’m currently doing Secondary Schooling
 - 💬 Ask me about languages such as HTML/CSS/JS, Python, Java, C, C# and C++
-- 📫 How to reach me: siddharthahingane@gmail.com
+- 📫 How to reach me: 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/siddharthahingane/)
 <br><br>
 <a href="#">
