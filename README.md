@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=SiddharthaHingane)
