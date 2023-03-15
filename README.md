@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a href="#">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthaHingane&theme=midnight-purple&hide_border=true">
 </a>
-<br>
-<br>
+
+![](https://komarev.com/ghpvc/?username=siddharthahingane)
