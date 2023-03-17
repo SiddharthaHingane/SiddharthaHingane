@@ -1,10 +1,11 @@
 ### Hi there, I'm Siddhartha Hingane 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+Siddhartha+Hingane+here;See+My+Creations+!!;Follow+me+on+Github+and+LeetCode)](https://git.io/typing-svg)
+
 I :heart: Coding and Automobiles
 <!--
 **SiddharthaHingane/SiddharthaHingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m passionate about AI, Machine Learning, Hardware and Software
 - 🌱 I’m currently doing Secondary Schooling
