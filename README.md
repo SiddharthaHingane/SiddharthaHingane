@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 Connect with me: <br>
 [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/siddharthahingane/)
 <br><br>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaHingane&layout=compact&theme=midnight-purple&hide_border=true">
-</a>
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthaHingane&theme=midnight-purple&hide_border=true">
-</a>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaHingane&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddharthaHingane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthaHingane&show_icons=true&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=siddharthahingane)
