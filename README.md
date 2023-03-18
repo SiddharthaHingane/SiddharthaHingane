@@ -6,6 +6,8 @@ I :heart: Coding and Automobiles
 <!--
 **SiddharthaHingane/SiddharthaHingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<a href="https://github.com/DenverCoder1?tab=followers" align=center>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SiddharthaHingane?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 - 🔭 I’m passionate about AI, Machine Learning, Hardware and Software
 - 🌱 I’m currently doing Secondary Schooling
