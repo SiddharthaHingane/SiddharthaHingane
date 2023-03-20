@@ -9,6 +9,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SiddharthaHingane?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/SiddharthaHingane?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SiddharthaHingane?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a><img src="https://komarev.com/ghpvc/?username=siddharthahingane&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="siddharthahingane" /> </a>
     <a href="https://github.com/SiddharthaHingane?tab=repositories">
     <img alt="Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"></a></p>
 <br><p align=center>
@@ -65,5 +66,3 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </details>
 <br><br>
-
-![](https://komarev.com/ghpvc/?username=SiddharthaHingane&color=007ec6&style=for-the-badge)
