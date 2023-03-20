@@ -27,6 +27,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthaHingane&show_icons=true&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthaHingane&theme=codeSTACKr)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthaHingane&theme=2077&utcOffset=8)
 </details>
 
 <details>
