@@ -32,7 +32,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthaHingane&theme=2077&utcOffset=8)
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 </details>
 
 <details>
