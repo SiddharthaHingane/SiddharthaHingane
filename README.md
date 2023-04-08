@@ -12,7 +12,8 @@
     <a><img src="https://komarev.com/ghpvc/?username=siddharthahingane&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="siddharthahingane" /> </a>
     <a href="https://github.com/SiddharthaHingane?tab=repositories">
     <img alt="Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"></a></p>
-<br><p align=center>
+<br>
+<p align=center>
 <a href="https://leetcode.com/siddharthahingane/" target="_blank">
     <img alt="leetcode" src="https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=orange"></a>
 <a href="mailto:siddharthahingane@gmail.com"><img alt="EMail" src="https://custom-icon-badges.demolab.com/badge/-siddharthahingane@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
