@@ -31,7 +31,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddharthaHingane&theme=codeSTACKr)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthaHingane&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SiddharthaHingane&theme=2077&utcOffset=5.30)
     
 ![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthaHingane&theme=onedark)
 </details>
