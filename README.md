@@ -87,5 +87,13 @@
     <a><img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white"></a>
     <br><br>
     <h3>🍔 Food</h3>
+    <a><img alt="Burger King" src="https://img.shields.io/badge/Burger%20King-D62300?logo=Burger%20King&logoColor=white"></a>
+    <a><img alt="KFC" src="https://img.shields.io/badge/KFC-F40027?logo=kfc&logoColor=white"></a>
+    <a><img alt="McDonalds" src="https://img.shields.io/badge/McDonald's-FBC817?logo=McDonald's&logoColor=white"></a>
+    <a><img alt="Swiggy" src="https://img.shields.io/badge/Swiggy-FC8019?logo=Swiggy&logoColor=white"></a>
+    <a><img alt="Uber Eats" src="https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white"></a>
+    <a><img alt="Zomato" src="https://img.shields.io/badge/Zomato-E23744?logo=zomato&logoColor=white"></a>
+    <br><br>
+    <h3>🚀 Frameworks & Library</h3>
 </details>
 <br><br>
