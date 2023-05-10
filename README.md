@@ -211,5 +211,45 @@
     <a><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white"></a>
     <br><br>
     <h3>👨 Social</h3>
+    <a><img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"></a>
+    <a><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+    <a><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+    <a><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black"></a>
+    <a><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+    <a><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?logo=linktree&logoColor=white"></a>
+    <a><img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
+    <a><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white"></a>
+    <a><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
+    <a><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a><img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white"></a>
+    <a><img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=Tumblr&logoColor=white"></a>
+    <a><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+    <br><br>
+    <h3>🎶 Sound</h3>
+    <a><img alt="Apple Music" src="https://img.shields.io/badge/apple%20music-F34E68?logo=apple%20music&logoColor=white"></a>
+    <a><img alt="Apple Podcasts" src="https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white"></a>
+    <a><img alt="Google Podcasts" src="https://img.shields.io/badge/Google_Podcasts-4285F4?logo=google-podcasts&logoColor=white"></a>
+    <a><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
+    <a><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white"></a>
+    <br><br>
+    <h3>🛒 Store</h3>
+    <a><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white"></a>
+    <a><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white"></a>
+    <br><br>
+    <h3>🎞 Streaming</h3>
+    <a><img alt="Amazon Prime" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?logo=netflix&logoColor=white"></a>
+    <a><img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white"></a>
+    <a><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
+    <br><br>
+    <h3>💻 Terminal</h3>
+    <a><img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white"></a>
+    <a><img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?logo=windows%20terminal&logoColor=white"></a>
+    <br><br>
+    <h3>🌐 Web Browsers</h3>
+    <a><img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?logo=Brave&logoColor=white"></a>
+    <a><img alt="Firfox Browser" src="https://img.shields.io/badge/Firefox_Browser-FF7139?logo=Firefox-Browser&logoColor=white"></a>
+    <a><img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-chrome&logoColor=white"></a>
+    <a><img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
+    <a><img alt="Safari" src="https://img.shields.io/badge/Safari-010101?logo=Safari&logoColor=white"></a>
 </details>
 <br><br>
