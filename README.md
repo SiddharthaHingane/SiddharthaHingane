@@ -237,7 +237,7 @@
     <a><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white"></a>
     <br><br>
     <h3>🎞 Streaming</h3>
-    <a><img alt="Amazon Prime" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?logo=netflix&logoColor=white"></a>
+    <a><img alt="Amazon Prime" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?logo=primevideo&logoColor=white"></a>
     <a><img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white"></a>
     <a><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
     <br><br>
