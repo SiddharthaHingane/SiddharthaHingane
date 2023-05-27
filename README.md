@@ -1,5 +1,5 @@
 <p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+Siddhartha+Hingane+here;See+My+Creations+!!;Follow+me+on+Github+and+LeetCode" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&pause=1000&color=FB0C0CA9&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey!++Siddhartha+here;Follow+me+on+Github+and+LeetCode" alt="Typing SVG" /></a></p>
 
 <!--
 **SiddharthaHingane/SiddharthaHingane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
