@@ -17,13 +17,13 @@
 <a href="https://leetcode.com/siddharthahingane/" target="_blank">
     <img alt="leetcode" src="https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=orange"></a>
 <a href="mailto:siddharthahingane@gmail.com"><img alt="EMail" src="https://custom-icon-badges.demolab.com/badge/-siddharthahingane@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
-    <a><img alt="location" src="https://custom-icon-badges.demolab.com/badge/Vadodara-India-purple?style=for-the-badge&logo=location&logoColor=white"></a></p>
+    <a><img alt="location" src="https://custom-icon-badges.demolab.com/badge/Thane-India-purple?style=for-the-badge&logo=location&logoColor=white"></a></p>
 <br><br>
   
  <details open>
  <summary><h2>📊 Github Stats and Activity</h2></summary>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaHingane&layout=compact&theme=onedark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaHingane&layout=compact&theme=onedark">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddharthaHingane&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
