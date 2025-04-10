@@ -25,7 +25,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaHingane&layout=compact&theme=dracula)
 
-![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=SiddharthaHingane)](https://git.io/streak-stats))
+![Github Streak](https://streak-stats.demolab.com?user=SiddharthaHingane&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiddharthaHingane&theme=ayu_mirage)
 
